@@ -1,0 +1,275 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+20 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$2.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$3.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$4.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$5.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$6.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$7.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$8.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$9$$anonfun$10.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$9.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$DoubleOps$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$DoubleOps.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatOps$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatOps.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatSequenceOps$$anonfun$$tilde$eq$extension$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatSequenceOps$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatSequenceOps.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps.class
+binary dependencies:
+4 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/.sbt/0.13/java9-rt-ext-oracle_corporation_11_0_1/rt.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+2 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.conctrees.ConcBuffer
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.package$
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+20 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$2
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$3
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$4
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$5
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$6
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$7
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$8
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$9
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.BarnesHutSuite$$anonfun$9$$anonfun$10
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$DoubleOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$DoubleOps$
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$FloatOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$FloatOps$
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$FloatSequenceOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$FloatSequenceOps$
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut.FloatOps$FloatSequenceOps$$anonfun$$tilde$eq$extension$1
+used names:
+130 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> $org_scalatest_assert_macro_expr
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> $org_scalatest_assert_macro_left
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> $org_scalatest_assert_macro_right
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> $this
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> &&
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> +=
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> -
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> <
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> <byname>
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> <init>
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> <repeated>
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> ==
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> A
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> A1
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Any
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> AnyRef
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> AnyVal
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> AssertionsHelper
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> B
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> BarnesHutSuite
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Body
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Bool
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Boolean
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Boundaries
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> CanBuildFrom
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Coll
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> ConcBuffer
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Double
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> DoubleOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Empty
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Float
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> FloatOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> FloatSequenceOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Fork
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> FunSuite
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Function1
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> GenIterable
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Int
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> JUnitRunner
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Leaf
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> MatchError
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Nothing
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Object
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Option
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Predef
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Quad
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> RunWith
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> SECTOR_PRECISION
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> SectorMatrix
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Seq
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> String
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> StringContext
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> T0
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Tag
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> That
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Tuple2
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> Unit
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> _1
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> _2
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> a
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> abs
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> apply
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> asInstanceOf
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> assert
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> assertionsHelper
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> b
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> b1
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> b2
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> b3
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> barneshut
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> binaryMacroBool
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> bodies
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> body
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> boundaries
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> canBuildFrom
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> centerX
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> centerY
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> collection
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> common
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> conctrees
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> concurrent
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> fail
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> find
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> forall
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> hashCode
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> insert
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> inserted
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> isDefined
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> isInstanceOf
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> java
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> junit
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> macroAssert
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> mass
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> massX
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> massY
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> math
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> maxX_=
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> maxY_=
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> minX_=
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> minY_=
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> ne
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> nw
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> org
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> package
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> parallel
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> precisionThreshold
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> quad
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> res
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> runner
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> s
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> scalactic
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> scalatest
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> se
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> self
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> simpleMacroBool
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> size
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> sm
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> sw
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> test
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> that
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> toDouble
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> total
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> updated
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> util
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> xspeed
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> yspeed
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> zip
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> ~=
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> ~=$extension
+product stamps:
+20 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$1.class -> lastModified(1545466131330)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$2.class -> lastModified(1545466131332)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$3.class -> lastModified(1545466131334)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$4.class -> lastModified(1545466131336)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$5.class -> lastModified(1545466131340)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$6.class -> lastModified(1545466131343)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$7.class -> lastModified(1545466131345)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$8.class -> lastModified(1545466131346)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$9$$anonfun$10.class -> lastModified(1545466131349)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite$$anonfun$9.class -> lastModified(1545466131348)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/BarnesHutSuite.class -> lastModified(1545466131327)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$.class -> lastModified(1545466131352)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$DoubleOps$.class -> lastModified(1545466131354)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$DoubleOps.class -> lastModified(1545466131353)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatOps$.class -> lastModified(1545466131356)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatOps.class -> lastModified(1545466131355)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatSequenceOps$$anonfun$$tilde$eq$extension$1.class -> lastModified(1545466131359)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatSequenceOps$.class -> lastModified(1545466131358)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps$FloatSequenceOps.class -> lastModified(1545466131357)
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/target/scala-2.11/test-classes/barneshut/FloatOps.class -> lastModified(1545466131350)
+source stamps:
+1 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> hash(decb6151e4b8a6547d1ed834616812f7b0ec6da2)
+binary stamps:
+4 items
+/Users/yifan/.sbt/0.13/java9-rt-ext-oracle_corporation_11_0_1/rt.jar -> lastModified(1542524090401)
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar -> lastModified(1317323535000)
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar -> lastModified(1422515758000)
+class names:
+4 items
+/Users/yifan/.sbt/0.13/java9-rt-ext-oracle_corporation_11_0_1/rt.jar -> java.lang.Object
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/junit/junit/4.10/junit-4.10.jar -> org.junit.runner.RunWith
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.AnyVal
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar -> org.scalatest.FunSuite
+internal apis:
+1 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbRNEvwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHCvBLEfdAAJRG91YmxlT3Bzc3EAfgALJTgoV3QAEmNvbnZlcnRUb0VxdWFsaXplcnNxAH4AC1p0IAR0ABBGbG9hdFNlcXVlbmNlT3Bzc3EAfgALLg4ZfXQACEZsb2F0T3Bzc3EAfgAL8V9dvnQAFXVuY29uc3RyYWluZWRFcXVhbGl0eXVxAH4ACQAAAG1zcQB+AAuMkFcxdAAGYXNzZXJ0c3EAfgALMa1Ku3QABm5vdGlmeXNxAH4ACwesebp0ACZsb3dQcmlvcml0eUNvbnZlcnNpb25DaGVja2VkQ29uc3RyYWludHNxAH4AC+SZ8Yp0ABBBc3NlcnRpb25zSGVscGVyc3EAfgAL5vZJ73QABmNhbmNlbHNxAH4AC5avyRB0AAR0ZXN0c3EAfgALqnEazXQAEWV4ZWN1dGUkZGVmYXVsdCQyc3EAfgALjlQw1nQADGV4cGVjdFJlc3VsdHNxAH4AC7SSo+x0AAlpbnRlcmNlcHRzcQB+AAvwECSZdAAEZmFpbHNxAH4AC5tfWvN0AARuYW1lc3EAfgALE6I5z3QAFGFzc2VydERvZXNOb3RDb21waWxlc3EAfgALkV+PSXQAEWV4ZWN1dGUkZGVmYXVsdCQ0c3EAfgALRGOvpHQAB2V4ZWN1dGVzcQB+AAujwa6UdAAEd2FpdHNxAH4ACy6MKt50AAt0ZXN0RGF0YUZvcnNxAH4AC+uRymN0ABNjcmVhdGVDYXRjaFJlcG9ydGVyc3EAfgALPKAEDnQACXN0eWxlTmFtZXNxAH4AC5tboVx0AA0kYXNJbnN0YW5jZU9mc3EAfgALFtguqHQAEWV4ZWN1dGUkZGVmYXVsdCQzc3EAfgALz1sbenQACWNvbmZpZ01hcHNxAH4ACw244KJ0AAlEb3VibGVPcHNzcQB+AAuD1eCRdAAGZXF1YWxzc3EAfgAL8BW2fXQALGNvbnZlcnRFcXVpdmFsZW5jZVRvQVRvQkNvbnZlcnNpb25Db25zdHJhaW50c3EAfgALbtFe1nQAD2RlZmF1bHRFcXVhbGl0eXNxAH4AC0aDcoR0ACJjb252ZXJ0RXF1aXZhbGVuY2VUb0FUb0JDb25zdHJhaW50c3EAfgALDMygzHQABHRhZ3NzcQB+AAuBQIIudAAMYXNJbnN0YW5jZU9mc3EAfgALTq2h7HQABWFsZXJ0c3EAfgALWCSecnQAA3J1bnNxAH4AC2UCMcZ0AA9MZWdhY3lFcXVhbGl6ZXJzcQB+AAuQvXB+dAAGc2NvcGVzc3EAfgAL9YTtrHQAGGNvbnZlcnRUb0xlZ2FjeUVxdWFsaXplcnNxAH4AC3aczyd0AAxzeW5jaHJvbml6ZWRzcQB+AAujlHaedAAOYXNzZXJ0Q29tcGlsZXNzcQB+AAssvtNBdAAEc2VsZnNxAH4AC2l3OG10AA0kaXNJbnN0YW5jZU9mc3EAfgALkmcy6HQABHRyYXBzcQB+AAuBUT+wdAAVdGVzdERhdGFGb3IkZGVmYXVsdCQyc3EAfgALlquKhXQADGFzc2VydFJlc3VsdHNxAH4AC81rpkl0ABBGbG9hdFNlcXVlbmNlT3Bzc3EAfgALLpZLhHQADkJhcm5lc0h1dFN1aXRlc3EAfgALTxZ85HQABHRleHRzcQB+AAvajk8odAAsY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29udmVyc2lvbkNvbnN0cmFpbnRzcQB+AAsnzYAJdAARZXhlY3V0ZSRkZWZhdWx0JDdzcQB+AAtzfauedAACfj1zcQB+AAurytJcdAAVdHlwZUNoZWNrZWRDb25zdHJhaW50c3EAfgALafHOjXQAAyE9PXNxAH4AC86l+QV0AARpbmZvc3EAfgALPioC4XQACW5vdGlmeUFsbHNxAH4ACyI+BOJ0AAt3aXRoRml4dHVyZXNxAH4AC+SyKsh0AAdydW5UZXN0c3EAfgALO4Fw9XQADGlzSW5zdGFuY2VPZnNxAH4AC93oVax0AAh3aXRoQ2x1ZXNxAH4ACwYv62x0ABBhc3NlcnRpb25zSGVscGVyc3EAfgALHVf4mXQAEWV4ZWN1dGUkZGVmYXVsdCQ2c3EAfgALxTuzUXQAD2Fzc2VydFR5cGVFcnJvcnNxAH4AC1qbH350AAZtYXJrdXBzcQB+AAvSOF/DdAAIbGVmdFNpZGVzcQB+AAtlm5wVdAAGPGluaXQ+c3EAfgALvxRWgXQAC21hY3JvQXNzdW1lc3EAfgAL49U6rHQAD3J1bk5lc3RlZFN1aXRlc3NxAH4AC/t0iB50AAVhcHBseXNxAH4AC6Fg7C90AAlFcXVhbGl6ZXJzcQB+AAvAbD9ZdAAbbmV3QXNzZXJ0aW9uRmFpbGVkRXhjZXB0aW9uc3EAfgALDAeMP3QABG5vdGVzcQB+AAunzGt9dAACPT1zcQB+AAuEW+gIdAAFY2xvbmVzcQB+AAtItjzUdAAQZXF1YWxzJGV4dGVuc2lvbnNxAH4ACzRyZwp0AAZleHBlY3RzcQB+AAvWHwoJdAAMbmVzdGVkU3VpdGVzc3EAfgALU5OqHHQABmFzc3VtZXNxAH4AC2b5sCx0AAYkaW5pdCRzcQB+AAvRrBavdAAIRmxvYXRPcHNzcQB+AAvyNErFdAAgbG93UHJpb3JpdHlUeXBlQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAs0px2OdAAMcmVnaXN0ZXJUZXN0c3EAfgALcEVTR3QAEWV4ZWN1dGUkZGVmYXVsdCQ1c3EAfgALmMRHQHQAAz09PXNxAH4AC1EGeYx0ABhuZXdUZXN0Q2FuY2VsZWRFeGNlcHRpb25zcQB+AAv7N4UOdAAIdG9TdHJpbmdzcQB+AAtB0jVQdAAJdGVzdE5hbWVzc3EAfgALNw57R3QAEWV4ZWN1dGUkZGVmYXVsdCQxc3EAfgALqsWnrHQAAiE9c3EAfgAL5QXP73QAF0xlZ2FjeUNoZWNraW5nRXF1YWxpemVyc3EAfgALNykRxnQACGdldENsYXNzc3EAfgALth2v4nQAE3JlZ2lzdGVySWdub3JlZFRlc3RzcQB+AAsYjiYidAAIdGVzdHNGb3JzcQB+AAsOLDa6dAAIcnVuVGVzdHNzcQB+AAt2mF2EdAARcGVuZGluZ1VudGlsRml4ZWRzcQB+AAtz5CGqdAARZXhwZWN0ZWRUZXN0Q291bnRzcQB+AAtNybyndAAIcmVydW5uZXJzcQB+AAtNGnv1dAAiY29udmVydEVxdWl2YWxlbmNlVG9CVG9BQ29uc3RyYWludHNxAH4ACypx4FN0AAJuZXNxAH4AC3qRltx0ABFDaGVja2luZ0VxdWFsaXplcnNxAH4AC1xlgUF0ACBjb252ZXJ0VG9MZWdhY3lDaGVja2luZ0VxdWFsaXplcnNxAH4AC05TCT90ABJoYXNoQ29kZSRleHRlbnNpb25zcQB+AAsLTvnzdAAHcGVuZGluZ3NxAH4AC9RIhXB0AAZpZ25vcmVzcQB+AAtPwTyydAALbWFjcm9Bc3NlcnRzcQB+AAvqPhL5dAACZXFzcQB+AAtbYzpHdAAaY29udmVydFRvQ2hlY2tpbmdFcXVhbGl6ZXJzcQB+AAtqEauYdAAJTm9BcmdUZXN0c3EAfgALVo70DHQAAiMjc3EAfgALBPahw3QACGZpbmFsaXplc3EAfgALbEjrr3QADH49JGV4dGVuc2lvbnNxAH4AC8Yozb50ABtjb252ZXJzaW9uQ2hlY2tlZENvbnN0cmFpbnRzcQB+AAsRHRlOdAAIaGFzaENvZGVzcQB+AAv7l+tkdAAHc3VpdGVJZHNxAH4AC7bz8ox0AAlzdWl0ZU5hbWVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgD7eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAMTAAFdmFsdWVxAH4ADHhwdAAFdmFsdWV0AChjbGFzc09mW29yZy5zY2FsYXRlc3QuanVuaXQuSlVuaXRSdW5uZXJdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ARRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4BIHQABWp1bml0c3EAfgEgdAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ASFzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ABhiYXJuZXNodXQuQmFybmVzSHV0U3VpdGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAN0ABBzY2FsYS5kZXByZWNhdGVkdAAnc2NhbGEucmVmbGVjdC5tYWNyb3MuaW50ZXJuYWwubWFjcm9JbXBsdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4BFHNxAH4BOHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgD7TAAJaW5oZXJpdGVkcQB+APtMAAdwYXJlbnRzcQB+APt4cQB+ARVzcQB+ATh1cQB+APYAAAAAc3EAfgE4dXEAfgD2AAAAAHNxAH4BOHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAPc3EAfgESdAAIRnVuU3VpdGVzcQB+ARhzcQB+ARt1cQB+AR4AAAADc3EAfgEgdAADb3Jnc3EAfgEgdAAJc2NhbGF0ZXN0cQB+ASlzcQB+ARJ0AAxGdW5TdWl0ZUxpa2VxAH4BSXNxAH4BEnQAC0RvY3VtZW50aW5ncQB+AUlzcQB+ARJ0AAhBbGVydGluZ3EAfgFJc3EAfgESdAAJTm90aWZ5aW5ncQB+AUlzcQB+ARJ0AAlJbmZvcm1pbmdxAH4BSXNxAH4BEnQAEFRlc3RSZWdpc3RyYXRpb25xAH4BSXNxAH4BEnQABVN1aXRlcQB+AUlzcQB+ARJ0AAxTZXJpYWxpemFibGVzcQB+ARhzcQB+ARt1cQB+AR4AAAADc3EAfgEgdAAEamF2YXNxAH4BIHQAAmlvcQB+ASlzcQB+ARJ0AA1BYnN0cmFjdFN1aXRlcQB+AUlzcQB+ARJ0AApBc3NlcnRpb25zcQB+AUlzcQB+ARJ0AAxUcmlwbGVFcXVhbHNzcQB+ARhzcQB+ARt1cQB+AR4AAAADc3EAfgEgdAADb3Jnc3EAfgEgdAAJc2NhbGFjdGljcQB+ASlzcQB+ARJ0ABNUcmlwbGVFcXVhbHNTdXBwb3J0cQB+AW1zcQB+ARJ0AAZPYmplY3RzcQB+ARhzcQB+ARt1cQB+AR4AAAADc3EAfgEgcQB+AWRzcQB+ASB0AARsYW5ncQB+ASlzcQB+ARJ0AANBbnlzcQB+ARhzcQB+ARt1cQB+AR4AAAACc3EAfgEgdAAFc2NhbGFxAH4BKXNxAH4A+HEAfgEFdXEAfgEGAAAAAHNxAH4BKgB0ABJiYXJuZXNodXQuRmxvYXRPcHN1cQB+AS0AAAAAfnEAfgEvdAAGTW9kdWxldXEAfgEzAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3EAfgE4cQB+ATxzcQB+AThzcQB+AT5zcQB+ATh1cQB+APYAAAAAc3EAfgE4dXEAfgD2AAAAAHNxAH4BOHVxAH4BRQAAAAJzcQB+ARJxAH4Bd3NxAH4BGHNxAH4BG3VxAH4BHgAAAANzcQB+ASBxAH4BZHNxAH4BIHEAfgF9cQB+ASlzcQB+ARJxAH4Bf3NxAH4BGHNxAH4BG3VxAH4BHgAAAAJzcQB+ASBxAH4BhHEAfgEpdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAJYmFybmVzaHV0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFn1PWwHHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFUvVXNlcnMveWlmYW4vZGV2L0lkZWFQcm9qZWN0cy9zY2FsYS1jb3Vyc2VyYS9iYXJuZXNodXQvdGFyZ2V0L3NjYWxhLTIuMTEvdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU3sthUeS4plR9Htg0YWgS97DsbaI=
+external apis:
+2 items
+barneshut.conctrees.ConcBuffer -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwKHra8gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAB8c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxUymRXQACnRvSXRlcmFibGVzcQB+AAxrWGNwdAAKd2l0aEZpbHRlcnNxAH4ADMLbcTJ0AA10b1RyYXZlcnNhYmxlc3EAfgAMhWomunQABm5vdGlmeXNxAH4ADJI6f3J0AARmaW5kc3EAfgAMEXD9G3QABHNwYW5zcQB+AAxeKZsNdAAHZmxhdHRlbnNxAH4ADIWXP3p0AAh0b0J1ZmZlcnNxAH4ADLhXIbJ0AAVjb3VudHNxAH4ADHWMqSJ0AApDb25jQnVmZmVyc3EAfgAMcyOADnQADHJlZHVjZU9wdGlvbnNxAH4ADCWmX0t0ABNzbGljZVdpdGhLbm93bkRlbHRhc3EAfgAMrxHFHHQABHdhaXRzcQB+AAxTXrJAdAAJZm9sZFJpZ2h0c3EAfgAMx5nciXQACXRha2VXaGlsZXNxAH4ADPilYmt0AAxzdHJpbmdQcmVmaXhzcQB+AAwHiCn5dAANJGFzSW5zdGFuY2VPZnNxAH4ADOcILrx0AAdzcGxpdEF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IZm9sZExlZnRzcQB+AAyBu5KhdAAMdG9Db2xsZWN0aW9uc3EAfgAMS8tDNXQAB2lzRW1wdHlzcQB+AAwxfPmHdAACbmVzcQB+AAzb7d64dAAEaW5pdHNxAH4ADKVFZMh0AAhyZXZlcnNlZHNxAH4ADMuJD7J0AAFrc3EAfgAM2b350HQACnJlZHVjZUxlZnRzcQB+AAyysTHzdAAQQ29uY0J1ZmZlclJ1bm5lcnNxAH4ADHbtXY10AAJlcXNxAH4ADA5R2kp0AANzdW1zcQB+AAyhIbvzdAAOdGhpc0NvbGxlY3Rpb25zcQB+AAwfLhd8dAACIyNzcQB+AAzFZF1fdAAIc2NhbkxlZnRzcQB+AAzTxx0QdAAIZmluYWxpemVzcQB+AAwS9/1QdAAIaGFzaENvZGVzcQB+AAyQxgqydAAHcHJvZHVjdHNxAH4ADEbt+ot0AAR2aWV3c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4BD3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAHmJhcm5lc2h1dC5jb25jdHJlZXMuQ29uY0J1ZmZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAABc3IAF3hzYnRpLmFwaS5UeXBlUGFyYW1ldGVyZ2lV2+NykGsCAAZbAAthbm5vdGF0aW9uc3EAfgEUTAACaWRxAH4ADUwACmxvd2VyQm91bmR0ABBMeHNidGkvYXBpL1R5cGU7WwAOdHlwZVBhcmFtZXRlcnNxAH4BEUwACnVwcGVyQm91bmRxAH4BIkwACHZhcmlhbmNldAAUTHhzYnRpL2FwaS9WYXJpYW5jZTt4cHVxAH4BGgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+ASJ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdABFKHNjYWxhLkJ5dGUsc2NhbGEuQ2hhcixzY2FsYS5JbnQsc2NhbGEuTG9uZyxzY2FsYS5GbG9hdCxzY2FsYS5Eb3VibGUpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAC3NwZWNpYWxpemVkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgExc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgE+dAAgYmFybmVzaHV0LmNvbmN0cmVlcy5Db25jQnVmZmVyLlRzcQB+AS90AAdOb3RoaW5ncQB+ATd1cQB+AR8AAAAAc3EAfgEvdAADQW55cQB+ATd+cgASeHNidGkuYXBpLlZhcmlhbmNlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAJSW52YXJpYW50fnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHEAfgFKdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuYW5ub3RhdGlvbi5taWdyYXRpb250ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3QAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+ATFzcQB+AVVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4BD0wACWluaGVyaXRlZHEAfgEPTAAHcGFyZW50c3EAfgEPeHEAfgEyc3EAfgFVdXEAfgEKAAAAAHNxAH4BVXVxAH4BCgAAAABzcQB+AVV1cgA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
+barneshut.package$ -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwbvfdLAABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABUc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwFTVckXQABnhzcGVlZHNxAH4ADGbKG+l0AARtaW5Yc3EAfgAMolm9PXQAAnNlc3EAfgAMLMdHZ3QABm5vdGlmeXNxAH4ADCrDqvt0AARtYXNzc3EAfgAM90KCl3QAB3VuYXBwbHlzcQB+AAxVgtdKdAAHY3VycmllZHNxAH4ADBy07Md0AAF4c3EAfgAM8UKNf3QAB3BhY2thZ2VzcQB+AAzr8hLqdAAGeXNwZWVkc3EAfgAMC6JJNHQAFGVsaW1pbmF0aW9uVGhyZXNob2xkc3EAfgAMXQCKhnQABHdhaXRzcQB+AAwjwOw0dAAFZm9yY2VzcQB+AAwvwdy6dAAOY29weSRkZWZhdWx0JDJzcQB+AAwCN91QdAANJGFzSW5zdGFuY2VPZnNxAH4ADMSclz90AAZib2RpZXNzcQB+AAzC3ptsdAAEc2l6ZXNxAH4ADHcBMQh0AAV0aW1lZHNxAH4ADE1T3GJ0AAVtYXNzWXNxAH4ADJIRTxp0AAZpbnNlcnRzcQB+AAyjArv+dAAMcHJvZHVjdEFyaXR5c3EAfgAMUHo0ZXQABnRvUXVhZHNxAH4ADPZ8Ej90AAZlcXVhbHNzcQB+AAyWX283dAABeXNxAH4ADEaqorJ0AAIrPXNxAH4ADNeIbBp0AAVjbGVhcnNxAH4ADEdMTUV0AAxhc0luc3RhbmNlT2ZzcQB+AAzOVejydAAEbWluWXNxAH4ADKJE7E90AApCb3VuZGFyaWVzc3EAfgAMJE1JLHQADHN5bmNocm9uaXplZHNxAH4ADBRcmSB0AApib3VuZGFyaWVzc3EAfgAMholWcXQABW1hc3NYc3EAfgAMiNHrJHQADSRpc0luc3RhbmNlT2ZzcQB+AAw8sJT6dAAGaGVpZ2h0c3EAfgAM9Di8IXQABnR1cGxlZHNxAH4ADNxYKD50AAZtYXRyaXhzcQB+AAyl0G+MdAAIY2FuRXF1YWxzcQB+AAxANR5fdAAEUXVhZHNxAH4ADPjNQbF0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADC+wjnh0AAV0b3RhbHNxAH4ADMN++Yt0AARMZWFmc3EAfgAMR6ojLXQADXByb2R1Y3RQcmVmaXhzcQB+AAxCVkOldAADZ2Vlc3EAfgAM/HYFGHQABG1heFhzcQB+AAzann8WdAAJbm90aWZ5QWxsc3EAfgAMflrR9XQADGlzSW5zdGFuY2VPZnNxAH4ADBJJ6g90AA9zZWN0b3JQcmVjaXNpb25zcQB+AAwJ0Mm7dAAOVGltZVN0YXRpc3RpY3NzcQB+AAwYYfpJdAAGPGluaXQ+c3EAfgAMGbDsB3QABG1heFlzcQB+AAxfVoHZdAAHdXBkYXRlZHNxAH4ADK8hf9l0AAVhcHBseXNxAH4ADL/IzEN0AAVFbXB0eXNxAH4ADHhhxYp0AAdjZW50ZXJYc3EAfgAMnNNirXQAAj09c3EAfgAM7onQGHQABEJvZHlzcQB+AAzMR7hBdAAFdGhldGFzcQB+AAyWgVMLdAAFY2xvbmVzcQB+AAx32hjjdAAKc2VjdG9yU2l6ZXNxAH4ADAgsABt0AAYkaW5pdCRzcQB+AAzJpcktdAALbWluaW11bVNpemVzcQB+AAwsiMXDdAAFZGVsdGFzcQB+AAzCUeutdAAQU0VDVE9SX1BSRUNJU0lPTnNxAH4ADAKFzQR0AAdjb21iaW5lc3EAfgAMTBUHenQADmNvcHkkZGVmYXVsdCQzc3EAfgAMS8/DhnQABGNvcHlzcQB+AAxPFZw/dAAIdG9TdHJpbmdzcQB+AAwTXfgldAACc3dzcQB+AAxk/WqtdAAHY2VudGVyWXNxAH4ADJwdZaR0AAIhPXNxAH4ADI2S3Vh0AAhnZXRDbGFzc3NxAH4ADBAoTmB0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADNXjV+l0AAJud3NxAH4ADPsaRsp0AARGb3Jrc3EAfgAMPh7Bh3QAAm5lc3EAfgAMQAwc7XQABXdpZHRoc3EAfgAMriAYL3QAAmVxc3EAfgAM7PcjYHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADAgXdNV0AAhkaXN0YW5jZXNxAH4ADNvNTEh0AAIjI3NxAH4ADLuTFqx0AAhmaW5hbGl6ZXNxAH4ADDQxrAh0AAxTZWN0b3JNYXRyaXhzcQB+AAzxyo63dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxOH5OqdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgC/eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAARYmFybmVzaHV0LnBhY2thZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4A2HNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgC/TAAJaW5oZXJpdGVkcQB+AL9MAAdwYXJlbnRzcQB+AL94cQB+AN1zcQB+ANh1cQB+ALoAAAAAc3EAfgDYdXEAfgC6AAAAAHNxAH4A2HVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4A3HQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4A3HNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4A9XQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A9nNxAH4A6XQAA0FueXNxAH4A7XNxAH4A8HVxAH4A8wAAAAJzcQB+APV0AAVzY2FsYXEAfgD8dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAJYmFybmVzaHV0c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFn1PWVFXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFAvVXNlcnMveWlmYW4vZGV2L0lkZWFQcm9qZWN0cy9zY2FsYS1jb3Vyc2VyYS9iYXJuZXNodXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBx5/rZPZNAJL9NFpH15jzDTwrhs
+source infos:
+1 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ9T1sBx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9Vc2Vycy95aWZhbi9kZXYvSWRlYVByb2plY3RzL3NjYWxhLWNvdXJzZXJhL2Jhcm5lc2h1dC90YXJnZXQvc2NhbGEtMi4xMS90ZXN0LWNsYXNzZXN0AAEv
