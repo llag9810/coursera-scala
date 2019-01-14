@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="YifandeMacBook-Pro.local" name="quickcheck.QuickCheckBinomialHeap" tests="5" errors="1" failures="1" skipped="0" time="-0.005">
+                     <properties>
+      <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.specification.version" value="11"/><property name="sun.cpu.isalist" value=""/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/openjdk-11.0.1.jdk/Contents/Home/lib"/><property name="sun.java.command" value="/usr/local/Cellar/sbt/1.2.6/libexec/bin/sbt-launch.jar"/><property name="jdk.debug" value="release"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2018-10-16"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/openjdk-11.0.1.jdk/Contents/Home"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="Zero based"/><property name="line.separator" value="
+"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="11.0.1+13"/><property name="user.name" value="yifan"/><property name="file.encoding" value="UTF-8"/><property name="java.vendor.version" value="18.9"/><property name="java.io.tmpdir" value="/var/folders/lc/czz05bpn4td_h11_c6t_zkt00000gn/T/"/><property name="java.version" value="11.0.1"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="sun.os.patch.level" value="unknown"/><property name="java.library.path" value="/Users/yifan/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.vendor" value="Oracle Corporation"/><property name="scala.ext.dirs" value="/Users/yifan/.sbt/0.13/java9-rt-ext-oracle_corporation_11_0_1"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="gopherProxySet" value="false"/><property name="java.class.path" value="/usr/local/Cellar/sbt/1.2.6/libexec/bin/sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="Asia/Shanghai"/><property name="os.name" value="Mac OS X"/><property name="java.vm.specification.version" value="11"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/Users/yifan"/><property name="user.language" value="en"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=":"/><property name="os.version" value="10.14.1"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/><property name="user.dir" value="/Users/yifan/dev/IdeaProjects/scala-coursera/quickcheck"/><property name="os.arch" value="x86_64"/><property name="java.vm.info" value="mixed mode"/><property name="java.vm.version" value="11.0.1+13"/><property name="java.class.version" value="55.0"/>
+    </properties>
+                     <testcase classname="quickcheck.QuickCheckBinomialHeap" name="gen1" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="quickcheck.QuickCheckBinomialHeap" name="min1" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="quickcheck.QuickCheckBinomialHeap" name="min2" time="-0.001">
+                                                 <failure message="Falsified after 0 passed tests.
+&gt; ARG_0: List(Node(-386699160,0,List()))
+&gt; ARG_1: 0
+&gt; ARG_2: 0" type="java.lang.Exception">java.lang.Exception: Falsified after 0 passed tests.
+&gt; ARG_0: List(Node(-386699160,0,List()))
+&gt; ARG_1: 0
+&gt; ARG_2: 0
+	at org.scalacheck.ScalaCheckFramework$$anon$2$$anon$3.&lt;init&gt;(ScalaCheckFramework.scala:50)
+	at org.scalacheck.ScalaCheckFramework$$anon$2.org$scalacheck$ScalaCheckFramework$$anon$$asEvent(ScalaCheckFramework.scala:38)
+	at org.scalacheck.ScalaCheckFramework$$anon$2$$anon$4.onTestResult(ScalaCheckFramework.scala:70)
+	at org.scalacheck.Test$$anonfun$checkProperties$1$$anon$7.onTestResult(Test.scala:396)
+	at org.scalacheck.Test$.check(Test.scala:385)
+	at org.scalacheck.Test$$anonfun$checkProperties$1.apply(Test.scala:398)
+	at org.scalacheck.Test$$anonfun$checkProperties$1.apply(Test.scala:391)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.generic.TraversableForwarder$class.foreach(TraversableForwarder.scala:35)
+	at scala.collection.mutable.ListBuffer.foreach(ListBuffer.scala:45)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234)
+	at scala.collection.AbstractTraversable.map(Traversable.scala:104)
+	at org.scalacheck.Test$.checkProperties(Test.scala:391)
+	at org.scalacheck.ScalaCheckFramework$$anon$2.run(ScalaCheckFramework.scala:88)
+	at sbt.RunnerWrapper$1.runRunner2(FrameworkWrapper.java:223)
+	at sbt.RunnerWrapper$1.execute(FrameworkWrapper.java:236)
+	at sbt.TestRunner.runTest$1(TestFramework.scala:76)
+	at sbt.TestRunner.run(TestFramework.scala:85)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$.sbt$TestFramework$$withContextLoader(TestFramework.scala:185)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFunction.apply(TestFramework.scala:207)
+	at sbt.Tests$$anonfun$9.apply(Tests.scala:216)
+	at sbt.Tests$$anonfun$9.apply(Tests.scala:216)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+</failure>
+                                               </testcase><testcase classname="quickcheck.QuickCheckBinomialHeap" name="empty1" time="-0.001">
+                                                 
+                                               </testcase><testcase classname="quickcheck.QuickCheckBinomialHeap" name="min3" time="-0.001">
+                                                 <error message="min of empty heap" type="java.util.NoSuchElementException">java.util.NoSuchElementException: min of empty heap
+	at quickcheck.BinomialHeap$class.findMin(Heap.scala:59)
+	at quickcheck.QuickCheckBinomialHeap$.findMin(QuickCheckSuite.scala:14)
+	at quickcheck.QuickCheckBinomialHeap$.findMin(QuickCheckSuite.scala:14)
+	at quickcheck.QuickCheckHeap$$anonfun$15.apply(QuickCheck.scala:40)
+	at quickcheck.QuickCheckHeap$$anonfun$15.apply(QuickCheck.scala:39)
+	at org.scalacheck.Prop$$anonfun$forAll$10$$anonfun$apply$25.apply(Prop.scala:848)
+	at scala.Function1$$anonfun$andThen$1.apply(Function1.scala:52)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1$$anonfun$3.apply(Prop.scala:690)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1$$anonfun$3.apply(Prop.scala:690)
+	at org.scalacheck.Prop$.secure(Prop.scala:451)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1.org$scalacheck$Prop$$anonfun$$result$1(Prop.scala:690)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1.apply(Prop.scala:727)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1.apply(Prop.scala:684)
+	at org.scalacheck.Prop$$anon$1.apply(Prop.scala:287)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1.org$scalacheck$Prop$$anonfun$$result$1(Prop.scala:691)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1.apply(Prop.scala:727)
+	at org.scalacheck.Prop$$anonfun$forAllShrink$1.apply(Prop.scala:684)
+	at org.scalacheck.Prop$$anon$1.apply(Prop.scala:287)
+	at org.scalacheck.Test$.org$scalacheck$Test$$workerFun$1(Test.scala:312)
+	at org.scalacheck.Test$.check(Test.scala:363)
+	at org.scalacheck.Test$$anonfun$checkProperties$1.apply(Test.scala:398)
+	at org.scalacheck.Test$$anonfun$checkProperties$1.apply(Test.scala:391)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.TraversableLike$$anonfun$map$1.apply(TraversableLike.scala:234)
+	at scala.collection.immutable.List.foreach(List.scala:392)
+	at scala.collection.generic.TraversableForwarder$class.foreach(TraversableForwarder.scala:35)
+	at scala.collection.mutable.ListBuffer.foreach(ListBuffer.scala:45)
+	at scala.collection.TraversableLike$class.map(TraversableLike.scala:234)
+	at scala.collection.AbstractTraversable.map(Traversable.scala:104)
+	at org.scalacheck.Test$.checkProperties(Test.scala:391)
+	at org.scalacheck.ScalaCheckFramework$$anon$2.run(ScalaCheckFramework.scala:88)
+	at sbt.RunnerWrapper$1.runRunner2(FrameworkWrapper.java:223)
+	at sbt.RunnerWrapper$1.execute(FrameworkWrapper.java:236)
+	at sbt.TestRunner.runTest$1(TestFramework.scala:76)
+	at sbt.TestRunner.run(TestFramework.scala:85)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1$$anonfun$apply$8.apply(TestFramework.scala:202)
+	at sbt.TestFramework$.sbt$TestFramework$$withContextLoader(TestFramework.scala:185)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFramework$$anon$2$$anonfun$$init$$1.apply(TestFramework.scala:202)
+	at sbt.TestFunction.apply(TestFramework.scala:207)
+	at sbt.Tests$$anonfun$9.apply(Tests.scala:216)
+	at sbt.Tests$$anonfun$9.apply(Tests.scala:216)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$3$$anonfun$apply$2.apply(System.scala:44)
+	at sbt.std.Transform$$anon$4.work(System.scala:63)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1$$anonfun$apply$1.apply(Execute.scala:228)
+	at sbt.ErrorHandling$.wideConvert(ErrorHandling.scala:17)
+	at sbt.Execute.work(Execute.scala:237)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.Execute$$anonfun$submit$1.apply(Execute.scala:228)
+	at sbt.ConcurrentRestrictions$$anon$4$$anonfun$1.apply(ConcurrentRestrictions.scala:159)
+	at sbt.CompletionService$$anon$2.call(CompletionService.scala:28)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+</error>
+                                               </testcase>
+                     <system-out></system-out>
+                     <system-err></system-err>
+                   </testsuite>

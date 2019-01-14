@@ -1,0 +1,29 @@
+[0m[[0minfo[0m] [0m[32mBloxorzSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- terrain function level 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- findChar level 1[0m[0m
+[0m[[0minfo[0m] [0m[31m- optimal solution for level 1 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.Solver$class.solution(Solver.scala:87)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.solution$lzycompute(BloxorzSuite.scala:69)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.solution(BloxorzSuite.scala:69)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3$$anon$3.<init>(BloxorzSuite.scala:70)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply$mcV$sp(BloxorzSuite.scala:69)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply(BloxorzSuite.scala:69)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$3.apply(BloxorzSuite.scala:69)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- optimal solution length for level 1 *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.NotImplementedError: an implementation is missing[0m[0m
+[0m[[0minfo[0m] [0m[31m  at scala.Predef$.$qmark$qmark$qmark(Predef.scala:230)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.Solver$class.solution(Solver.scala:87)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4$$anon$4.solution$lzycompute(BloxorzSuite.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4$$anon$4.solution(BloxorzSuite.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4$$anon$4.<init>(BloxorzSuite.scala:77)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4.apply$mcV$sp(BloxorzSuite.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4.apply(BloxorzSuite.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at streams.BloxorzSuite$$anonfun$4.apply(BloxorzSuite.scala:76)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

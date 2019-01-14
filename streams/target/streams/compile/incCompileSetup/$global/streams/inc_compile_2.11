@@ -1,0 +1,540 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+41 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/common/package$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/common/package.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Down$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Left$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Move.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Pos.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Right$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Up$.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$class.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$2$$anonfun$apply$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$2.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1$$anonfun$apply$2.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$neighborsWithHistory$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$newNeighborsOnly$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$class.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain.class
+binary dependencies:
+6 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+6 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> /Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala
+inheritance external dependencies:
+0 items
+class names:
+41 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> common.package
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> common.package$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$InfiniteLevel$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level0$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$Level1$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams.Bloxorz$delayedInit$body
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Block$$anonfun$legalNeighbors$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Down$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Left$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Move
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Pos$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Right$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$Up$
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams.GameDef$class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$$anonfun$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams.InfiniteTerrain$class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$2$$anonfun$apply$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$from$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$from$1$$anonfun$apply$2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$neighborsWithHistory$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$newNeighborsOnly$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$$anonfun$pathsToGoal$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams.Solver$class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$$anonfun$terrainFunction$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> streams.StringParserTerrain$class
+used names:
+303 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> ::
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> <init>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> <repeated>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> ?0
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> A
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Any
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> AnyRef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> B
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Boolean
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> File
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> FileInputStream
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Function2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> InputStream
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> List
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> None
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Nothing
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Object
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Option
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Predef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> Some
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> String
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> URI
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> URL
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> _root_
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> child
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> children
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> classesDir
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> common
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> exists
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> file
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> foldLeft
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> getClass
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> getParentFile
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> getResource
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> io
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> java
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> package
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> projectDir
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> resourceFile
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> resourcePath
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> subFile
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> toURI
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> <init>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Any
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> App
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Bloxorz
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteLevel
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> InfiniteTerrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Int
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Level
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Level0
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Level1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> List
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Move
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Object
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Pos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Predef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Solver
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> String
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> StringOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> StringParserTerrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> Unit
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> augmentString
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> goal
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> level
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> package
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> println
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> solution
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> startPos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> streams
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> stripMargin
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> &&
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> +
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> <=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> <byname>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> <init>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> <repeated>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> ==
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> A
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> AbstractFunction2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Any
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> AnyRef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Block
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Boolean
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Down
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Function1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> GameDef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> IndexOutOfBoundsException
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Int
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Iterator
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Left
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> List
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> MatchError
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Move
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> None
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Nothing
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Object
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Pos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Predef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Product
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Right
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> ScalaRunTime
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Serializable
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Some
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Statics
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> String
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> T
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> T0
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> T1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> T2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Terrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Tuple2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Unit
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> Up
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> _1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> _hashCode
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> _root_
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> _toString
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> apply
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> asInstanceOf
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> b1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> b2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> block
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> col
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> common
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> d
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> d1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> d2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> deltaCol
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> deltaRow
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> down
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> eq
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> filter
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> finalizeHash
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> immutable
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> isInstanceOf
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> isLegal
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> isStanding
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> left
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> mix
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> ne
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> neighbors
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> package
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> require
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> right
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> row
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> runtime
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> startPos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> streams
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> terrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> toString
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> typedProductIterator
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> up
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> x$1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> x$2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> ||
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> Boolean
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> Function1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> GameDef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> InfiniteTerrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> Pos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> Terrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> streams
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> terrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> #:::
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> &&
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> ++
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> ::
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> <byname>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> <init>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> <repeated>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> ==
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> A
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Any
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> AnyRef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> B
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Block
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Boolean
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> CanBuildFrom
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Coll
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> ConsWrapper
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Empty
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Function1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> GameDef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> GenTraversableOnce
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> List
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> MatchError
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Move
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Nil
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Nothing
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Pos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Predef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Set
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Solver
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Stream
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> StreamWithFilter
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> T1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> T2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> That
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> Tuple2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> _1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> _2
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> apply
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> b
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> b1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> block
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> canBuildFrom
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> common
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> consWrapper
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> contains
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> explored
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> filter
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> flatMap
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> from
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> goal
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> head
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> history
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> immutable
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> initial
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> isEmpty
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> isStanding
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> legalNeighbors
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> map
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> move
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> moves
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> ne
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> neighbor
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> neighbors
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> neighborsWithHistory
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> newNeighborsOnly
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> next
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> package
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> pathsFromStart
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> pathsToGoal
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> startBlock
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> streams
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> toStream
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> unary_!
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> unchecked
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> withFilter
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> !=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> &&
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> <
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> <repeated>
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> >=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> A
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> A1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Any
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> AnyRef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Array
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> ArrayOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> B
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Boolean
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> CanBuildFrom
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Char
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Class
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> ClassTag
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Function1
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> GameDef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Int
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Nothing
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Pos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Predef
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> String
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> StringParserTerrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> T
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Terrain
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> That
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> Vector
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> WrappedString
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> _$4
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> _$7
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> _root_
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> apply
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> c
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> canBuildFrom
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> col
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> common
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> contains
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> findChar
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> indexOf
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> indexWhere
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> length
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> level
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> levelVector
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> map
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> materializeClassTag
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> package
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> pos
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> refArrayOps
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> row
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> scala
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> split
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> str
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> streams
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> terrainFunction
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> vector
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> wrapString
+product stamps:
+41 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1543504501303)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/common/package$.class -> lastModified(1543504501297)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/common/package.class -> lastModified(1543504501245)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$.class -> lastModified(1543504501315)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$InfiniteLevel$.class -> lastModified(1543504501336)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$Level.class -> lastModified(1543504501358)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$Level0$.class -> lastModified(1543504501360)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$Level1$.class -> lastModified(1543504501362)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz$delayedInit$body.class -> lastModified(1543504501364)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Bloxorz.class -> lastModified(1543504501307)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$1.class -> lastModified(1543504501391)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block$$anonfun$legalNeighbors$1.class -> lastModified(1543504501394)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block$.class -> lastModified(1543504501389)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Block.class -> lastModified(1543504501386)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Down$.class -> lastModified(1543504501397)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Left$.class -> lastModified(1543504501399)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Move.class -> lastModified(1543504501401)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Pos$.class -> lastModified(1543504501409)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Pos.class -> lastModified(1543504501407)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Right$.class -> lastModified(1543504501412)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$Up$.class -> lastModified(1543504501415)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef$class.class -> lastModified(1543504501416)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/GameDef.class -> lastModified(1543504501368)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/InfiniteTerrain$$anonfun$1.class -> lastModified(1543504501419)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/InfiniteTerrain$class.class -> lastModified(1543504501420)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/InfiniteTerrain.class -> lastModified(1543504501418)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$1.class -> lastModified(1543506156365)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$2$$anonfun$apply$1.class -> lastModified(1543506156368)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$2.class -> lastModified(1543506156367)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1$$anonfun$apply$2.class -> lastModified(1543506156371)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class -> lastModified(1543506156370)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$neighborsWithHistory$1.class -> lastModified(1543506156373)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$newNeighborsOnly$1.class -> lastModified(1543506156375)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class -> lastModified(1543506156377)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver$class.class -> lastModified(1543506156380)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/Solver.class -> lastModified(1543506156362)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$1.class -> lastModified(1543504501454)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class -> lastModified(1543504501456)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class -> lastModified(1543504501459)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class -> lastModified(1543504501462)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/target/scala-2.11/classes/streams/StringParserTerrain.class -> lastModified(1543504501452)
+source stamps:
+6 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> hash(1f1e1210e763c5fc0c82387ec0ddc39a929d9118)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> hash(93e7cf56a81c0b518b2ea1d0eeca639a309a2310)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> hash(bb43830f6c61b8ab29553af959146eb9d8850dff)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> hash(62b4260475bc69bacac40a07619f3235000c8101)
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> hash(f784392d6d3ad50dbfa15c974bfd03c3a1a1cb2a)
+binary stamps:
+1 items
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+1 items
+/Users/yifan/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.collection.generic.GenericCompanion
+internal apis:
+6 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNR5ezQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxBALLnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAM1Ez2oXQACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM2tY31nQABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAzTr+AcdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyruj4odAAIZmluYWxpemVzcQB+AAzDjCCldAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBlc3EAfgBgdXEAfgBCAAAAAHNxAH4AYHVxAH4AQgAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2AJiLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOL1VzZXJzL3lpZmFuL2Rldi9JZGVhUHJvamVjdHMvc2NhbGEtY291cnNlcmEvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlHLrDAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABOc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwW1GPFnQABGRvd25zcQB+AAxqHmJ4dAAGbm90aWZ5c3EAfgAMCBoFaXQAB3VuYXBwbHlzcQB+AAyuckipdAAHY3VycmllZHNxAH4ADCW2B9x0AAVMZXZlbHNxAH4ADGjoMUl0AAhkZWx0YVJvd3NxAH4ADBJFKlh0AAR3YWl0c3EAfgAMsp9oUHQACGRlbHRhQ29sc3EAfgAMs4p91HQAAmIyc3EAfgAMZP7qXnQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM9PAMGHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM1xqqZ3QADSRhc0luc3RhbmNlT2ZzcQB+AAwo4QXidAAQbmV3TmVpZ2hib3JzT25seXNxAH4ADFykq9R0AAZMZXZlbDBzcQB+AAyAG1D+dAAMcHJvZHVjdEFyaXR5c3EAfgAM1mk9W3QADnBhdGhzRnJvbVN0YXJ0c3EAfgAMUdQE93QABmVxdWFsc3NxAH4ADDZKekx0AAJ1cHNxAH4ADBM010x0AAdCbG94b3J6c3EAfgAMoHQt0XQADGFzSW5zdGFuY2VPZnNxAH4ADHgplqV0AA5leGVjdXRpb25TdGFydHNxAH4ADB1VM9R0AAluZWlnaGJvcnNzcQB+AAzPYvAodAAMc3luY2hyb25pemVkc3EAfgAMv6p46nQABGxlZnRzcQB+AAycRGYzdAANJGlzSW5zdGFuY2VPZnNxAH4ADB2nTHl0AAZ0dXBsZWRzcQB+AAwkGPALdAAEZ29hbHNxAH4ADAfFBLF0AAJiMXNxAH4ADPu5BN50AAhjYW5FcXVhbHNxAH4ADDL6k5Z0AANyb3dzcQB+AAyx0hTEdAAEbWFpbnNxAH4ADEYG76V0AA90ZXJyYWluRnVuY3Rpb25zcQB+AAxNJ7qTdAANcHJvZHVjdFByZWZpeHNxAH4ADOKVcIF0AAZMZXZlbDFzcQB+AAzU1sw+dAAJbm90aWZ5QWxsc3EAfgAMx1+aWHQADGlzSW5zdGFuY2VPZnNxAH4ADFPl7GF0AAhzb2x1dGlvbnNxAH4ADCVJ5c90AAY8aW5pdD5zcQB+AAylp/jEdAAETW92ZXNxAH4ADFhoWBd0AAVhcHBseXNxAH4ADDwOxXt0AAI9PXNxAH4ADNn32wl0AANjb2xzcQB+AAzJci3KdAAERG93bnNxAH4ADD88cZ90AARMZWZ0c3EAfgAMhWbfwXQABWNsb25lc3EAfgAM69Te23QAB3RlcnJhaW5zcQB+AAzd9zihdAALcGF0aHNUb0dvYWxzcQB+AAwsSkU2dAAEZnJvbXNxAH4ADCFcgmN0AAYkaW5pdCRzcQB+AAzqLRfndAAHaXNMZWdhbHNxAH4ADIGfb/F0AApzdGFydEJsb2Nrc3EAfgAM70QbCXQACmlzU3RhbmRpbmdzcQB+AAzVwUdHdAACVXBzcQB+AAyq5uBOdAAEY29weXNxAH4ADG+aoix0AARkb25lc3EAfgAMXj5qkHQACHRvU3RyaW5nc3EAfgAMdg3d+XQABGFyZ3NzcQB+AAwfM1MhdAAIZmluZENoYXJzcQB+AAwD/e4hdAANSW5maW5pdGVMZXZlbHNxAH4ADEBab7F0AANQb3NzcQB+AAxBTd4CdAACIT1zcQB+AAw44dmGdAAIZ2V0Q2xhc3NzcQB+AAzFeplrdAAOY29weSRkZWZhdWx0JDFzcQB+AAwISDY7dAAUbmVpZ2hib3JzV2l0aEhpc3RvcnlzcQB+AAwn3sTAdAAHVGVycmFpbnNxAH4ADDzZzu90AAJuZXNxAH4ADIZcPkZ0AAhzdGFydFBvc3NxAH4ADBKwztx0AAVCbG9ja3NxAH4ADJqVmcl0AAVSaWdodHNxAH4ADHkhYox0AAJlcXNxAH4ADHaSyW90AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxk+S9RdAAFcmlnaHRzcQB+AAyJNCgYdAALZGVsYXllZEluaXRzcQB+AAw3DYpudAACIyNzcQB+AAwM7eEldAAIZmluYWxpemVzcQB+AAxbdNuZdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxaUInydAAIaGFzaENvZGVzcQB+AAzD2WLAdAAFbGV2ZWxzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCzeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAPc3RyZWFtcy5CbG94b3J6dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AM5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4As0wACWluaGVyaXRlZHEAfgCzTAAHcGFyZW50c3EAfgCzeHEAfgDTc3EAfgDOdXEAfgCuAAAAAHNxAH4AznVxAH4ArgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AtHEAfgC9dXEAfgC+AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A3XhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDSdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+ANJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+APdzcQB+AMAAcQB+AEt1cQB+AMMAAAAAc3EAfgDqdAAEVW5pdHEAfgDwdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4A3XhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AxnQABVBsYWlucQB+AH9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AOtbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ANJzcQB+AOp0AAVBcnJheXEAfgDwdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AOp0AAZTdHJpbmdzcQB+AO5zcQB+APF1cQB+APQAAAADc3EAfgD2dAAEamF2YXNxAH4A9nQABGxhbmdxAH4A+3NxAH4AznVxAH4BEgAAAARzcQB+AOp0AANBcHBxAH4A8HNxAH4A6nQAC0RlbGF5ZWRJbml0cQB+APBzcQB+AOp0AAZPYmplY3RxAH4BFnNxAH4A6nQAA0FueXEAfgDwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2AJiLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOL1VzZXJzL3lpZmFuL2Rldi9JZGVhUHJvamVjdHMvc2NhbGEtY291cnNlcmEvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHx4SEOdjxfwMgjh+wN3DmpKdkRg=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwucRMhgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA8c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwWVWUU3QABGRvd25zcQB+AAwm4H/6dAAGbm90aWZ5c3EAfgAMlwf6C3QAB3VuYXBwbHlzcQB+AAzZhhyTdAAHY3VycmllZHNxAH4ADAZLAax0AAhkZWx0YVJvd3NxAH4ADL6uRah0AAdHYW1lRGVmc3EAfgAM7Df443QABHdhaXRzcQB+AAxCl6wsdAAIZGVsdGFDb2xzcQB+AAwKRO0bdAACYjJzcQB+AAwo6ULbdAAObGVnYWxOZWlnaGJvcnNzcQB+AAxNio2WdAAOY29weSRkZWZhdWx0JDJzcQB+AAyEyB9ddAANJGFzSW5zdGFuY2VPZnNxAH4ADNUkMQB0AAxwcm9kdWN0QXJpdHlzcQB+AAyODHg1dAAGZXF1YWxzc3EAfgAMTVnuLHQAAnVwc3EAfgAM8GL7tHQADGFzSW5zdGFuY2VPZnNxAH4ADECnES10AAluZWlnaGJvcnNzcQB+AAyGzDaydAAMc3luY2hyb25pemVkc3EAfgAMijTHtXQABGxlZnRzcQB+AAzT1UOHdAANJGlzSW5zdGFuY2VPZnNxAH4ADNPJPzd0AAZ0dXBsZWRzcQB+AAzqzSUGdAAEZ29hbHNxAH4ADLOOsqF0AAJiMXNxAH4ADHbIbjB0AAhjYW5FcXVhbHNxAH4ADJrAg1t0AANyb3dzcQB+AAwj8QVQdAANcHJvZHVjdFByZWZpeHNxAH4ADCD1fQh0AAlub3RpZnlBbGxzcQB+AAyE8c3jdAAMaXNJbnN0YW5jZU9mc3EAfgAM2sv1G3QABjxpbml0PnNxAH4ADN274/p0AARNb3Zlc3EAfgAMSTYBMXQABWFwcGx5c3EAfgAMor1a+3QAAj09c3EAfgAMSC7wHnQAA2NvbHNxAH4ADMRPl550AAREb3duc3EAfgAMOs5lyXQABExlZnRzcQB+AAzdYAiodAAFY2xvbmVzcQB+AAwFamkOdAAHdGVycmFpbnNxAH4ADH1OVHJ0AAYkaW5pdCRzcQB+AAwArlCadAAHaXNMZWdhbHNxAH4ADCuz9gt0AApzdGFydEJsb2Nrc3EAfgAMTwgz4HQACmlzU3RhbmRpbmdzcQB+AAzLCg9adAACVXBzcQB+AAyNMxxUdAAEY29weXNxAH4ADC2x1rV0AAh0b1N0cmluZ3NxAH4ADNZnVZx0AANQb3NzcQB+AAwUlQEjdAACIT1zcQB+AAyeOff0dAAIZ2V0Q2xhc3NzcQB+AAzNaSfIdAAOY29weSRkZWZhdWx0JDFzcQB+AAyieO1OdAAHVGVycmFpbnNxAH4ADIy85Ll0AAJuZXNxAH4ADJUJ0n10AAhzdGFydFBvc3NxAH4ADDGA6Xl0AAVCbG9ja3NxAH4ADOlReoF0AAVSaWdodHNxAH4ADObBo1t0AAJlcXNxAH4ADFoemSx0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAz+eouNdAAFcmlnaHRzcQB+AAyXRFAOdAACIyNzcQB+AAyghbCAdAAIZmluYWxpemVzcQB+AAwMZeNXdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwxbtdVdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCPeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAPc3RyZWFtcy5HYW1lRGVmdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAFVHJhaXR1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AqHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCPTAAJaW5oZXJpdGVkcQB+AI9MAAdwYXJlbnRzcQB+AI94cQB+AK1zcQB+AKh1cQB+AIoAAAAAc3EAfgCodXEAfgCKAAAAAHNxAH4AqHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ArHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ArHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AxXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AxnNxAH4AuXQAA0FueXNxAH4AvXNxAH4AwHVxAH4AwwAAAAJzcQB+AMV0AAVzY2FsYXEAfgDMdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2AJiLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOL1VzZXJzL3lpZmFuL2Rldi9JZGVhUHJvamVjdHMvc2NhbGEtY291cnNlcmEvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUk+fPVqgcC1GLLqHQ7spjmjCaIxA=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwHM96jAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA8c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmJ/SEnQABGRvd25zcQB+AAw7GE6gdAAGbm90aWZ5c3EAfgAM9wsBSnQAB3VuYXBwbHlzcQB+AAxhLJgBdAAHY3VycmllZHNxAH4ADBmMhqp0AAhkZWx0YVJvd3NxAH4ADC++G+B0AAR3YWl0c3EAfgAMupjzbXQACGRlbHRhQ29sc3EAfgAMkfE+vnQAAmIyc3EAfgAMXQZ82XQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMQvc1RHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMy4Bu4XQADSRhc0luc3RhbmNlT2ZzcQB+AAx6Fc0MdAAMcHJvZHVjdEFyaXR5c3EAfgAMlcfm3HQABmVxdWFsc3NxAH4ADCBDQfV0AAJ1cHNxAH4ADHYKOjN0AA9JbmZpbml0ZVRlcnJhaW5zcQB+AAz7+efxdAAMYXNJbnN0YW5jZU9mc3EAfgAMAc92NnQACW5laWdoYm9yc3NxAH4ADEjkPdJ0AAxzeW5jaHJvbml6ZWRzcQB+AAxVBfbgdAAEbGVmdHNxAH4ADO9lNup0AA0kaXNJbnN0YW5jZU9mc3EAfgAMAkdo0HQABnR1cGxlZHNxAH4ADBlbEH50AARnb2Fsc3EAfgAMWbxo+XQAAmIxc3EAfgAMks+iHHQACGNhbkVxdWFsc3EAfgAMH74rXnQAA3Jvd3NxAH4ADJI5x8J0AA1wcm9kdWN0UHJlZml4c3EAfgAMCD+MlXQACW5vdGlmeUFsbHNxAH4ADKaIPUZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwP3pepdAAGPGluaXQ+c3EAfgAMPDFYJ3QABE1vdmVzcQB+AAy5ZWmPdAAFYXBwbHlzcQB+AAzA4WYvdAACPT1zcQB+AAyGOaf0dAADY29sc3EAfgAMp09k2nQABERvd25zcQB+AAz8CkJedAAETGVmdHNxAH4ADE18yTN0AAVjbG9uZXNxAH4ADDlB3ht0AAd0ZXJyYWluc3EAfgAMNHiMtHQABiRpbml0JHNxAH4ADKp8mUF0AAdpc0xlZ2Fsc3EAfgAMgRjmE3QACnN0YXJ0QmxvY2tzcQB+AAwwnQsVdAAKaXNTdGFuZGluZ3NxAH4ADCYyC050AAJVcHNxAH4ADLkINiF0AARjb3B5c3EAfgAMmHL2VXQACHRvU3RyaW5nc3EAfgAMhcOeanQAA1Bvc3NxAH4ADOilu5h0AAIhPXNxAH4ADNIa0aB0AAhnZXRDbGFzc3NxAH4ADGhPiPV0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBBpLyx0AAdUZXJyYWluc3EAfgAMCWTOt3QAAm5lc3EAfgAM89LEbnQACHN0YXJ0UG9zc3EAfgAMFkwv33QABUJsb2Nrc3EAfgAMhfN+NnQABVJpZ2h0c3EAfgAMsirCR3QAAmVxc3EAfgAMHoDz8HQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHwBVd10AAVyaWdodHNxAH4ADL44HpR0AAIjI3NxAH4ADEZknbR0AAhmaW5hbGl6ZXNxAH4ADM6Mrfd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADBC+ysd0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AI94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0ABdzdHJlYW1zLkluZmluaXRlVGVycmFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Aj0wACWluaGVyaXRlZHEAfgCPTAAHcGFyZW50c3EAfgCPeHEAfgCtc3EAfgCodXEAfgCKAAAAAHNxAH4AqHVxAH4AigAAAABzcQB+AKh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKx0AAdHYW1lRGVmc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCsc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAdzdHJlYW1zc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMZzcQB+ALl0AAZPYmplY3RzcQB+AL1zcQB+AMB1cQB+AMMAAAADc3EAfgDFdAAEamF2YXNxAH4AxXQABGxhbmdxAH4AynNxAH4AuXQAA0FueXNxAH4AvXNxAH4AwHVxAH4AwwAAAAJzcQB+AMV0AAVzY2FsYXEAfgDKdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2AJiLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOL1VzZXJzL3lpZmFuL2Rldi9JZGVhUHJvamVjdHMvc2NhbGEtY291cnNlcmEvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUu0ODD2xhuKspVTr5WRRuudiFDf8=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw2Wo/FQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABDc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwfN9V4XQABGRvd25zcQB+AAzsX3YhdAAGbm90aWZ5c3EAfgAMMDt4fXQAB3VuYXBwbHlzcQB+AAzG5G1pdAAHY3VycmllZHNxAH4ADJjN7bJ0AAhkZWx0YVJvd3NxAH4ADH42vf90AAR3YWl0c3EAfgAMx+YT43QACGRlbHRhQ29sc3EAfgAMCk1ZJ3QAAmIyc3EAfgAMLJsEz3QADmxlZ2FsTmVpZ2hib3Jzc3EAfgAMVUu52HQADmNvcHkkZGVmYXVsdCQyc3EAfgAMu3JSPnQADSRhc0luc3RhbmNlT2ZzcQB+AAyM1ql+dAAQbmV3TmVpZ2hib3JzT25seXNxAH4ADNMPu/B0AAxwcm9kdWN0QXJpdHlzcQB+AAyCbZQMdAAOcGF0aHNGcm9tU3RhcnRzcQB+AAywsncjdAAGZXF1YWxzc3EAfgAMuWx2UXQAAnVwc3EAfgAMCC+1eHQADGFzSW5zdGFuY2VPZnNxAH4ADBmxdAh0AAluZWlnaGJvcnNzcQB+AAyoDyFGdAAMc3luY2hyb25pemVkc3EAfgAM2Ut8I3QABGxlZnRzcQB+AAycED6KdAANJGlzSW5zdGFuY2VPZnNxAH4ADJSYOY50AAZ0dXBsZWRzcQB+AAwL8CdZdAAEZ29hbHNxAH4ADEa5qbB0AAJiMXNxAH4ADJo0DZR0AAhjYW5FcXVhbHNxAH4ADJKl01l0AANyb3dzcQB+AAyTKB8NdAANcHJvZHVjdFByZWZpeHNxAH4ADBOE2dN0AAlub3RpZnlBbGxzcQB+AAxkfepvdAAMaXNJbnN0YW5jZU9mc3EAfgAMQKMMH3QACHNvbHV0aW9uc3EAfgAMY993Q3QABjxpbml0PnNxAH4ADL8u5+B0AARNb3Zlc3EAfgAMG4wdFnQABWFwcGx5c3EAfgAMiKxoq3QAAj09c3EAfgAMufrg+3QAA2NvbHNxAH4ADH0DfFx0AAREb3duc3EAfgAMtRf8QHQABExlZnRzcQB+AAxw57OVdAAFY2xvbmVzcQB+AAyVt4hRdAAHdGVycmFpbnNxAH4ADH2STmh0AAtwYXRoc1RvR29hbHNxAH4ADLcAgoF0AARmcm9tc3EAfgAMP2xsy3QABiRpbml0JHNxAH4ADOM7ptV0AAdpc0xlZ2Fsc3EAfgAM+SXN2HQACnN0YXJ0QmxvY2tzcQB+AAzpjdGgdAAKaXNTdGFuZGluZ3NxAH4ADDOdOW90AAJVcHNxAH4ADIbbG6x0AARjb3B5c3EAfgAMZo/vOXQABGRvbmVzcQB+AAzZ0vHzdAAGU29sdmVyc3EAfgAMiY3iH3QACHRvU3RyaW5nc3EAfgAMyp7RzXQAA1Bvc3NxAH4ADAbWzFh0AAIhPXNxAH4ADEe/2at0AAhnZXRDbGFzc3NxAH4ADF19ICh0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADAjpHWR0ABRuZWlnaGJvcnNXaXRoSGlzdG9yeXNxAH4ADNaHNVR0AAdUZXJyYWluc3EAfgAMuOjMgnQAAm5lc3EAfgAMTQ+6P3QACHN0YXJ0UG9zc3EAfgAMgvZnanQABUJsb2Nrc3EAfgAMGNPoz3QABVJpZ2h0c3EAfgAML+5hU3QAAmVxc3EAfgAM92feF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADJeJpzF0AAVyaWdodHNxAH4ADG0cw3J0AAIjI3NxAH4ADHsk4+p0AAhmaW5hbGl6ZXNxAH4ADDVCxdl0AA5wcm9kdWN0RWxlbWVudHNxAH4ADHmHT9N0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AJ14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAF0AA5zdHJlYW1zLlNvbHZlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+ALZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AnUwACWluaGVyaXRlZHEAfgCdTAAHcGFyZW50c3EAfgCdeHEAfgC7c3EAfgC2dXEAfgCYAAAAAHNxAH4AtnVxAH4AmAAAAABzcQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALp0AAdHYW1lRGVmc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgC6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAdzdHJlYW1zc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ANRzcQB+AMd0AAZPYmplY3RzcQB+AMtzcQB+AM51cQB+ANEAAAADc3EAfgDTdAAEamF2YXNxAH4A03QABGxhbmdxAH4A2HNxAH4Ax3QAA0FueXNxAH4Ay3NxAH4AznVxAH4A0QAAAAJzcQB+ANN0AAVzY2FsYXEAfgDYdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2Ai2Ih1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOL1VzZXJzL3lpZmFuL2Rldi9JZGVhUHJvamVjdHMvc2NhbGEtY291cnNlcmEvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUYrQmBHW8abrKxAoHYZ8yNQAMgQE=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlwtcugAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA/c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwtUa0M3QABGRvd25zcQB+AAyObwXrdAAGbm90aWZ5c3EAfgAM/cF+RXQAB3VuYXBwbHlzcQB+AAy0PFsKdAAHY3VycmllZHNxAH4ADN8huLd0AAhkZWx0YVJvd3NxAH4ADD4RsD50AAR3YWl0c3EAfgAM07s/y3QACGRlbHRhQ29sc3EAfgAM1fqh/XQAAmIyc3EAfgAM/lyHInQADmxlZ2FsTmVpZ2hib3Jzc3EAfgAM82a11XQADmNvcHkkZGVmYXVsdCQyc3EAfgAMj1Zw0nQADSRhc0luc3RhbmNlT2ZzcQB+AAzQRxCqdAAMcHJvZHVjdEFyaXR5c3EAfgAMJ37PvHQABmVxdWFsc3NxAH4ADCYJXYh0AAJ1cHNxAH4ADAfuf3F0AAxhc0luc3RhbmNlT2ZzcQB+AAzCGawddAAJbmVpZ2hib3Jzc3EAfgAMCTIA/XQADHN5bmNocm9uaXplZHNxAH4ADAuVkjR0AARsZWZ0c3EAfgAMGnBqDHQADSRpc0luc3RhbmNlT2ZzcQB+AAzZ7qLndAAGdHVwbGVkc3EAfgAMop1MrHQABGdvYWxzcQB+AAx1kvjkdAACYjFzcQB+AAwoGsyBdAAIY2FuRXF1YWxzcQB+AAzASW3hdAADcm93c3EAfgAMSWTKc3QAD3RlcnJhaW5GdW5jdGlvbnNxAH4ADBe8N0N0AA1wcm9kdWN0UHJlZml4c3EAfgAMvaXHunQACW5vdGlmeUFsbHNxAH4ADDQT0310AAxpc0luc3RhbmNlT2ZzcQB+AAwFtnhLdAAGPGluaXQ+c3EAfgAMRyw2OXQABE1vdmVzcQB+AAxmXISudAAFYXBwbHlzcQB+AAwjVnPLdAACPT1zcQB+AAxsYHa4dAADY29sc3EAfgAMB0FVSnQABERvd25zcQB+AAzRMEsLdAAETGVmdHNxAH4ADLO7iKV0AAVjbG9uZXNxAH4ADBKk2rJ0AAd0ZXJyYWluc3EAfgAM+FHMZnQABiRpbml0JHNxAH4ADIo40C90AAdpc0xlZ2Fsc3EAfgAMWUnc8nQACnN0YXJ0QmxvY2tzcQB+AAwSeOs6dAAKaXNTdGFuZGluZ3NxAH4ADGelnYF0AAJVcHNxAH4ADLPoyYl0ABNTdHJpbmdQYXJzZXJUZXJyYWluc3EAfgAMsDkZKnQABGNvcHlzcQB+AAwDrcimdAAIdG9TdHJpbmdzcQB+AAxEw1HPdAAIZmluZENoYXJzcQB+AAw9XfutdAADUG9zc3EAfgAMp0Qi7HQAAiE9c3EAfgAM2cTX93QACGdldENsYXNzc3EAfgAMH7oqJnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMHC/FsHQAB1RlcnJhaW5zcQB+AAwqk9WxdAACbmVzcQB+AAzLPzXbdAAIc3RhcnRQb3NzcQB+AAx7Kk0kdAAFQmxvY2tzcQB+AAxshoBadAAFUmlnaHRzcQB+AAwvrra9dAACZXFzcQB+AAylqgL0dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM2+03c3QABXJpZ2h0c3EAfgAMjBvDtHQAAiMjc3EAfgAMmh6xBHQACGZpbmFsaXplc3EAfgAM1MR2EHQADnByb2R1Y3RFbGVtZW50c3EAfgAMjuZwUXQACGhhc2hDb2Rlc3EAfgAMFQ3kwXQABWxldmVsc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AlXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAG3N0cmVhbXMuU3RyaW5nUGFyc2VyVGVycmFpbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AK5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AlUwACWluaGVyaXRlZHEAfgCVTAAHcGFyZW50c3EAfgCVeHEAfgCzc3EAfgCudXEAfgCQAAAAAHNxAH4ArnVxAH4AkAAAAABzcQB+AK51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+ALJ0AAdHYW1lRGVmc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCyc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAdzdHJlYW1zc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AMxzcQB+AL90AAZPYmplY3RzcQB+AMNzcQB+AMZ1cQB+AMkAAAADc3EAfgDLdAAEamF2YXNxAH4Ay3QABGxhbmdxAH4A0HNxAH4Av3QAA0FueXNxAH4Aw3NxAH4AxnVxAH4AyQAAAAJzcQB+AMt0AAVzY2FsYXEAfgDQdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHc3RyZWFtc3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2AJiLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABOL1VzZXJzL3lpZmFuL2Rldi9JZGVhUHJvamVjdHMvc2NhbGEtY291cnNlcmEvc3RyZWFtcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU94Q5LW061Q2/oVyXS/0Dw6Ghyyo=
+external apis:
+0 items
+source infos:
+6 items
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Bloxorz.scala -> 
+AAAAAAAAAAA=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/GameDef.scala -> 
+AAAAAAAAAAA=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/InfiniteTerrain.scala -> 
+AAAAAAAAAAA=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/Solver.scala -> 
+AAAAAAAAAAA=
+/Users/yifan/dev/IdeaProjects/scala-coursera/streams/src/main/scala/streams/StringParserTerrain.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2AJiLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy95aWZhbi9kZXYvSWRlYVByb2plY3RzL3NjYWxhLWNvdXJzZXJhL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZ2Ai2Ih1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATi9Vc2Vycy95aWZhbi9kZXYvSWRlYVByb2plY3RzL3NjYWxhLWNvdXJzZXJhL3N0cmVhbXMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
